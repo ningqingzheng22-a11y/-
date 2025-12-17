@@ -1,0 +1,5 @@
+{
+  "name": "Qianli Jiangshan - Sonic Wave Painting",
+  "description": "An interactive 3D music visualization system inspired by the 'A Thousand Li of Rivers and Mountains' painting style. It generates dynamic particle landscapes that react to audio frequencies in real-time.",
+  "requestFramePermissions": []
+}
